@@ -1,34 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Homepage:
+<img width="1082" alt="Screenshot 2023-08-31 at 4 18 44 PM" src="https://github.com/mohamk29/Meetup-app/assets/49575465/460295b8-4689-4b43-9c65-881dfe6b956c">
+Show Details Page:
+<img width="1086" alt="Screenshot 2023-08-31 at 4 19 01 PM" src="https://github.com/mohamk29/Meetup-app/assets/49575465/89a98ce6-84cb-4a3d-9896-4f9c4572e4ed">
+<img width="1086" alt="Screenshot 2023-08-31 at 4 19 12 PM" src="https://github.com/mohamk29/Meetup-app/assets/49575465/7b219590-56b5-42da-9d98-fa101754cafc">
+Adding a new event:
+<img width="1085" alt="Screenshot 2023-08-31 at 4 21 51 PM" src="https://github.com/mohamk29/Meetup-app/assets/49575465/359fdf67-e017-4084-ac21-9d59e23f4c0a">
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
